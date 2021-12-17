@@ -8,7 +8,7 @@
      GPU Powercolor Radeon RX570 4GB (AXRX5704GBD5-3DHD/OC)
      Wifi + Bluetooth BCM94360CD 
      Monitor ASUS Tuf Gaming VG289Q 28-inch 4k
-  ![image](https://github.com/ericai0803/Gigabyte-B460M-Aorus-Elite-Hackintosh-Open-Core/blob/main/system%20info.jpg)
+  ![image](https://github.com/ericai0803/Gigabyte-B460M-Aorus-Elite-Hackintosh-Open-Core/blob/main/Images/system%20info.jpg)
      
 # OpenCore (Version: 0.7.7) + macOS Monterey (12.0.1)
 * OC Install Guide https://dortania.github.io/OpenCore-Install-Guide/
