@@ -1,1 +1,1 @@
-# Gigabyte-B460M-Aorus-Elite-Hackintosh-Open-Core
+Specifications
