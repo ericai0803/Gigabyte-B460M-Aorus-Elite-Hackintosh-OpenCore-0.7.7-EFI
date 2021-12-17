@@ -50,6 +50,6 @@
 # Known issue
 * Etc
 # Result
-![image](https://github.com/ericai0803/Gigabyte-B460M-Aorus-Elite-Hackintosh-Open-Core/blob/main/Intel%20Gadget.jpg)
+![image](https://github.com/ericai0803/Gigabyte-B460M-Aorus-Elite-Hackintosh-Open-Core/blob/main/Images/Intel%20Gadget.jpg)
 
-![image](https://github.com/ericai0803/Gigabyte-B460M-Aorus-Elite-Hackintosh-Open-Core/blob/main/videoproc.jpg)
+![image](https://github.com/ericai0803/Gigabyte-B460M-Aorus-Elite-Hackintosh-Open-Core/blob/main/Images/videoproc.jpg)
