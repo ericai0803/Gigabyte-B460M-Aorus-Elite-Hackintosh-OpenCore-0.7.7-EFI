@@ -53,3 +53,13 @@
 ![image](https://github.com/ericai0803/Gigabyte-B460M-Aorus-Elite-Hackintosh-Open-Core/blob/main/Images/Intel%20Gadget.jpg)
 
 ![image](https://github.com/ericai0803/Gigabyte-B460M-Aorus-Elite-Hackintosh-Open-Core/blob/main/Images/videoproc.jpg)
+
+![image](https://github.com/ericai0803/Gigabyte-B460M-Aorus-Elite-Hackintosh-Open-Core/blob/main/Images/Geek5%20CPU%20Bench.png)
+
+![image](https://github.com/ericai0803/Gigabyte-B460M-Aorus-Elite-Hackintosh-Open-Core/blob/main/Images/Geek5%20GPU%20Bench.png)
+
+![image](https://github.com/ericai0803/Gigabyte-B460M-Aorus-Elite-Hackintosh-Open-Core/blob/main/Images/%20CineBenchR20.png)
+
+# Note for you
+![image](https://github.com/ericai0803/Gigabyte-B460M-Aorus-Elite-Hackintosh-Open-Core/blob/main/Images/Sereial.png)
+##### Please use your own SN, UUID and MLB number.
