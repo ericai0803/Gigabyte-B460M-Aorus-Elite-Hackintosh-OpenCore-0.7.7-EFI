@@ -14,6 +14,7 @@
 * OC Install Guide https://dortania.github.io/OpenCore-Install-Guide/
 * OC 0.7.7 Pkg https://github.com/dortania/build-repo/releases
 * OC 0.7.7 Configuration https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf
+* 我和我黑蘋果 https://www.imacpc.net/archives/3340
 # BIOS Settings
 ## Enable
 * VT-x
