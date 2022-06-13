@@ -4,7 +4,7 @@
      - Ethernet: Intel® Ethernet Connection I219V12
      Intel Core i5 10400
      Ram 2 x 16GB Kingston DDR4 2666 CL16
-     SSD Micron Crucial MX500 500GB SATA 
+     SSD Micron Crucial MX500 500GB SATA3
      GPU Powercolor Radeon RX570 4GB (AXRX5704GBD5-3DHD/OC)
      Wifi + Bluetooth BCM94360CD 
      Monitor ASUS Tuf Gaming VG289Q 28-inch 4k
