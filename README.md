@@ -4,8 +4,8 @@
      - Ethernet: Intel® Ethernet Connection I219V12
      Intel Core i5 10400
      Ram 2 x 16GB Kingston DDR4 2666 CL16
-     SSD Micron Crucial MX500 500GB SATA3
-     GPU Powercolor Radeon RX570 4GB (AXRX5704GBD5-3DHD/OC)
+     SSD Micron Crucial MX500 2.5" 500GB SATA3
+     GPU ASUS Dual RX580 8GB OC 
      Wifi + Bluetooth BCM94360CD 
      Monitor ASUS Tuf Gaming VG289Q 28-inch 4k
   ![image](https://github.com/ericai0803/Gigabyte-B460M-Aorus-Elite-Hackintosh-Open-Core/blob/main/Images/system%20info.jpg)
